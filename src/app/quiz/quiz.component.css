@@ -1,0 +1,7 @@
+#main{
+    
+    background-color: #cccccc;
+    background-image:repeating-radial-gradient( rgb(20, 228, 228),rgb(202, 148, 200));
+    background-size: cover;
+    height: 800px;
+}

@@ -1,1 +1,49 @@
 /* You can add global styles to this file, and also import other style files */
+.btn{
+    border-radius: 10px;
+}
+
+
+
+.option{
+    
+    font-size:20px;
+    padding:10px;
+    margin:3px;
+    border-radius: 15px;
+}
+    #quiz .options input[type=checkbox] {
+        height:22px;
+        width:22px;
+    }
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.result-question{
+    
+    background-color: #cccccc;
+    background-image:repeating-radial-gradient( rgb(244, 248, 248),rgb(250, 246, 250));
+    background-size: cover;
+
+  
+    margin:4px;
+    padding:6px;
+}
+
+@media only screen and (max-width: 480px) {
+    h1,.h1{
+        font-size:22px;
+    }
+    h2,.h2{
+        font-size:18px;
+    }
+    h3,.h3{
+        font-size:16px;
+    }
+    .option {
+        font-size: 14px;
+        padding: 6px;
+    }
+}

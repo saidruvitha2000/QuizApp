@@ -1,0 +1,13 @@
+.row {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 20px !important;
+    display: block !important;
+}
+.row{
+    
+    background-color: #cccccc;
+    background-image:repeating-radial-gradient( rgb(225, 228, 20),rgb(202, 148, 200));
+    background-size: cover;
+    height: 800px;
+}

@@ -1,0 +1,14 @@
+.dru{
+    
+    background-color: #cccccc;
+    background-image:repeating-radial-gradient( rgb(20, 214, 228),rgb(172, 173, 179));
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    position: fixed;
+}
